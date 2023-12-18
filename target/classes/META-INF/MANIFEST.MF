@@ -1,0 +1,32 @@
+Manifest-Version: 1.0
+Build-Jdk-Spec: 20
+Class-Path: lib/selenium-firefox-driver-4.16.1.jar lib/auto-service-anno
+ tations-1.1.1.jar lib/selenium-api-4.16.1.jar lib/selenium-devtools-v85
+ -4.16.1.jar lib/selenium-http-4.16.1.jar lib/failsafe-3.3.2.jar lib/sel
+ enium-json-4.16.1.jar lib/selenium-manager-4.16.1.jar lib/selenium-os-4
+ .16.1.jar lib/commons-exec-1.3.jar lib/selenium-remote-driver-4.16.1.ja
+ r lib/opentelemetry-api-1.28.0.jar lib/opentelemetry-context-1.28.0.jar
+  lib/opentelemetry-exporter-logging-1.28.0.jar lib/opentelemetry-sdk-me
+ trics-1.28.0.jar lib/opentelemetry-extension-incubator-1.28.0-alpha.jar
+  lib/opentelemetry-sdk-logs-1.28.0.jar lib/opentelemetry-sdk-common-1.2
+ 8.0.jar lib/opentelemetry-sdk-extension-autoconfigure-spi-1.28.0.jar li
+ b/opentelemetry-sdk-extension-autoconfigure-1.28.0.jar lib/opentelemetr
+ y-api-events-1.28.0-alpha.jar lib/opentelemetry-sdk-trace-1.28.0.jar li
+ b/opentelemetry-sdk-1.28.0.jar lib/opentelemetry-semconv-1.28.0-alpha.j
+ ar lib/selenium-support-4.16.1.jar lib/guava-32.1.2-jre.jar lib/failure
+ access-1.0.1.jar lib/listenablefuture-9999.0-empty-to-avoid-conflict-wi
+ th-guava.jar lib/jsr305-3.0.2.jar lib/checker-qual-3.33.0.jar lib/error
+ _prone_annotations-2.18.0.jar lib/j2objc-annotations-2.8.jar lib/byte-b
+ uddy-1.14.5.jar lib/selenium-java-4.16.1.jar lib/selenium-chrome-driver
+ -4.16.1.jar lib/selenium-chromium-driver-4.16.1.jar lib/selenium-devtoo
+ ls-v118-4.16.1.jar lib/selenium-devtools-v119-4.16.1.jar lib/selenium-d
+ evtools-v120-4.16.1.jar lib/selenium-edge-driver-4.16.1.jar lib/seleniu
+ m-ie-driver-4.16.1.jar lib/selenium-safari-driver-4.16.1.jar lib/gson-2
+ .10.1.jar lib/poi-5.2.0.jar lib/commons-codec-1.15.jar lib/commons-coll
+ ections4-4.4.jar lib/commons-math3-3.6.1.jar lib/commons-io-2.11.0.jar 
+ lib/SparseBitSet-1.2.jar lib/log4j-api-2.17.1.jar lib/poi-ooxml-5.2.0.j
+ ar lib/poi-ooxml-lite-5.2.0.jar lib/xmlbeans-5.0.3.jar lib/commons-comp
+ ress-1.21.jar lib/curvesapi-1.06.jar
+Main-Class: io.auton8.spark.DFComparator
+Created-By: Maven Integration for Eclipse
+
